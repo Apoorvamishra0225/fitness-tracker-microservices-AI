@@ -127,6 +127,21 @@ This repository demonstrates how to design and integrate multiple independent se
 
 <img width="1600" height="770" alt="image" src="https://github.com/user-attachments/assets/e0aa322d-ddd8-4e30-92c8-b74463d672f2" />
 
+## Screenshots:
+
+<img width="3014" height="1626" alt="image" src="https://github.com/user-attachments/assets/345d204d-fbe6-4361-9c75-aa2df999cb99" />
+
+<img width="3014" height="1626" alt="image" src="https://github.com/user-attachments/assets/ad3d455e-ef80-4410-9aab-d87b7475d215" />
+
+<img width="3014" height="1596" alt="image" src="https://github.com/user-attachments/assets/eb6ea06e-3c91-447c-9e3e-10f75f0ad6f8" />
+
+<img width="3014" height="1596" alt="image" src="https://github.com/user-attachments/assets/6258be7e-f8b8-4fac-9bb3-13a2a6a52db2" />
+
+
+
+
+
+
 
 ---
 
