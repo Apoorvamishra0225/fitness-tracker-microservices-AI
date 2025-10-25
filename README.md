@@ -7,7 +7,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?logo=mongodb)](https://www.mongodb.com/)
 [![Keycloak](https://img.shields.io/badge/Keycloak-Authentication-blueviolet?logo=keycloak)](https://www.keycloak.org/)
 [![Google Gemini](https://img.shields.io/badge/Google-Gemini%20AI-lightgrey?logo=google)](https://deepmind.google/technologies/gemini/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
@@ -94,19 +93,6 @@ This repository demonstrates how to design and integrate multiple independent se
 
 ---
 
-## 🧠 Key Features
-
-✅ Microservice-based, modular architecture  
-✅ Secure authentication & authorization using Keycloak  
-✅ Event-driven communication with RabbitMQ  
-✅ Polyglot persistence using MySQL + MongoDB  
-✅ Dynamic configuration and service discovery  
-✅ AI-driven analytics powered by Google Gemini  
-✅ Scalable and fault-tolerant design  
-✅ Works seamlessly across web and mobile clients  
-
----
-
 ## 🏗️ Tech Stack
 
 | Layer | Technology |
@@ -139,12 +125,8 @@ This repository demonstrates how to design and integrate multiple independent se
 
 > 🖼️ Below is the high-level architecture of the Fitness App Microservices:
 
-![Architecture Diagram](./97054669-af22-445c-b7cf-a9d1795871b6.png)
+![Architecture Diagram](<img width="1600" height="770" alt="image" src="https://github.com/user-attachments/assets/38a60e23-e342-4dda-8347-10913344862e" />
+)
 
 ---
 
-## 💬 Contact
-
-**Author:** [EmbarkXOfficial](https://github.com/EmbarkXOfficial)  
-**Repository:** [fitness-app-microservices](https://github.com/EmbarkXOfficial/fitness-app-microservices)  
-For questions or collaborations, feel free to reach out via GitHub Discussions or Issues.
