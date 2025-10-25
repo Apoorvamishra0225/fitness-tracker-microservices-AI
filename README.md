@@ -125,8 +125,8 @@ This repository demonstrates how to design and integrate multiple independent se
 
 > 🖼️ Below is the high-level architecture of the Fitness App Microservices:
 
-![Architecture Diagram](<img width="1600" height="770" alt="image" src="https://github.com/user-attachments/assets/38a60e23-e342-4dda-8347-10913344862e" />
-)
+<img width="1600" height="770" alt="image" src="https://github.com/user-attachments/assets/e0aa322d-ddd8-4e30-92c8-b74463d672f2" />
+
 
 ---
 
