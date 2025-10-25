@@ -12,7 +12,7 @@
 
 ## 📘 Overview
 
-The **Fitness App Microservices** project is a **distributed, cloud-native fitness tracking platform** built using a **microservices architecture**. It is designed to support both web and mobile clients for a seamless user experience across devices.
+The **Fitness App Microservices** project is a **distributed, cloud-native fitness tracking platform** built using a **microservices architecture**.
 
 The platform leverages modern technologies such as **Spring Boot**, **RabbitMQ**, **MySQL**, **MongoDB**, **Keycloak**, and **Google’s Gemini AI** to provide **secure, scalable, and intelligent** fitness data management and insights.
 
